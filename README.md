@@ -35,9 +35,8 @@ Each challenge has it's own difficulty, and you could use both JavaScript or Typ
 | 24 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 | 25 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 
-
-[^Diff]: Difficulty levels: 
-    🟢 Easy
-    🟡 Easy, but tricky
-    🟠 Medium
-    🔴 Hard
+[^Diff]: Difficulty levels:
+    | 🟢 Easy
+    | 🟡 Easy, but tricky
+    | 🟠 Medium
+    | 🔴 Hard |
