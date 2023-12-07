@@ -14,7 +14,7 @@ Each challenge has it's own difficulty, and you could use both JavaScript or Typ
 | 03 | 😏 The naughty elf  | 🟢  | [Instructions](https://adventjs.dev/challenges/2023/3) | [Solution](challenges/03/solution.js)  |
 | 04 | 😵‍💫 Turn the parentheses around  | 🟡  | [Instructions](https://adventjs.dev/challenges/2023/4) | [Solution](challenges/04/solution.js)  |
 | 05 | 🛷 Santa's CyberTruck  | 🟠 | [Instructions](https://adventjs.dev/challenges/2023/5) | [Solution](challenges/05/solution.js)  |
-| 06 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
+| 06 | 🦌 The reindeer on trial | 🟢  | [Instructions](https://adventjs.dev/challenges/2023/6) | [Solution](challenges/06/solution.js)  |
 | 07 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 | 08 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 | 09 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
