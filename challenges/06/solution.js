@@ -19,24 +19,34 @@
 } */
 //#endregion
 
-//#region Second attemp
-function maxDistance(movements) {
-    
+//#region Solution by timudev@Discord
+/* function maxDistance(movements) {
+
   let distance = 0
   let incognitDistance = 0
 
-  for(const movement of movements){
-    if(movement === '>') distance++
-    else if(movement === '<') distance--
+  for (const movement of movements) {
+    if (movement === '>') distance++
+    else if (movement === '<') distance--
     else incognitDistance++
   }
 
   return Math.abs(distance) + incognitDistance
+} */
+//#endregion
+
+//#region Solution by finalquest@Discord
+function maxDistance(movements) {
+
+  const LEFT = movements.split(">").length - 1
+  const RIGHT = movements.split("<").length - 1
+
+  return Math.abs(LEFT - RIGHT) + (movements.length - LEFT - RIGHT)
 }
 //#endregion
 
-console.log(maxDistance(">>*<")) 
-console.log(maxDistance("<<<<<")) 
-console.log(maxDistance(">***>")) 
-console.log(maxDistance("**********")) 
+console.log(maxDistance(">>*<"))
+console.log(maxDistance("<<<<<"))
+console.log(maxDistance(">***>"))
+console.log(maxDistance("**********"))
 console.log(maxDistance("<<**>>")) 
