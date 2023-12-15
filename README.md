@@ -16,7 +16,7 @@ Each challenge has it's own difficulty, and you could use both JavaScript or Typ
 | 05 | 🛷 Santa's CyberTruck  | 🟡 | [Instructions](https://adventjs.dev/challenges/2023/5) | [Solution](challenges/05/solution.js)  |
 | 06 | 🦌 The reindeer on trial | 🟢  | [Instructions](https://adventjs.dev/challenges/2023/6) | [Solution](challenges/06/solution.js)  |
 | 07 | 📦 The 3D boxes  | 🟢  | [Instructions](https://adventjs.dev/challenges/2023/7) | [Solution](challenges/07/solution.js)  |
-| 08 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
+| 08 | 🏬 Sorting the warehouse  | 🟡  | [Instructions](https://adventjs.dev/challenges/2023/8) | [Solution](challenges/08/solution.js)  |
 | 09 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 | 10 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
 | 11 | ~  | ~  | [Instructions](https://adventjs.dev/challenges/2023/x) | [Solution](challenges/x/solution.js)  |
